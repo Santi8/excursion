@@ -23,6 +23,7 @@ body{
 a {
   color: aquamarine;
   font-size: 16px;
+  display: block;
 }
 
 .intro,
@@ -38,4 +39,8 @@ h2 {
 p {
   font-size: 21px;
   color: gray;
+}
+
+video{
+  object-fit: contain;
 }
